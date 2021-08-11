@@ -12,7 +12,7 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=wanfahdiva.wanfahdiva)
 
 <br />
 
@@ -42,11 +42,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JSX          17 hrs 32 mins  ██████████████████████▓░░   05.91 % 
-HTML         1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-JavaScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-CSS          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-SCSS         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+HTML           ██████████████████████▓░░   90.91 % 
+CSS            ███████████████████░░░░░░   86.54 % 
+JavaScript     ██████████░░░░░░░░░░░░░░░   51.41 % 
+CodeIgniter    ████████░░░░░░░░░░░░░░░░░   45.01 % 
+JSX            ██░░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
 ```
 <!--END_SECTION:waka-->
 
