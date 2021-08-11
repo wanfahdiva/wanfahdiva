@@ -36,19 +36,22 @@ I'm also a fan of open-source. I learn a lot from the open-source community and 
 <!-- <img alt="stats" height="140em" src="https://c.tenor.com/RZ1Cq8RF_FwAAAAM/anime-crazy.gif" /> -->
 <p align="center">
 <kbd><img align="center" height="140em" alt="stats" src="https://github-readme-stats.vercel.app/api?username=wanfahdiva&theme=react&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></kbd>
-<kbd><img align="center" height="140em" alt="stats" src="https://c.tenor.com/RZ1Cq8RF_FwAAAAM/anime-crazy.gif" /></kbd>
 <kbd><img align="center" height="140em" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanfahdiva&theme=react&layout=compact" />
 </kbd>
 </p>
 
------
-
-<!-- <p align="center">
-  <kbd><img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=wanfahdiva#version3"/></kbd>
-  <kbd><img height="140em" src="https://activity-graph.herokuapp.com/graph?username=wanfahdiva&theme=redical"></kbd>
+<p align="center">
+<kbd><img align="center" height="140em" alt="stats" src="https://c.tenor.com/RZ1Cq8RF_FwAAAAM/anime-crazy.gif" /></kbd>
 </p>
 
------ -->
+<!-- ----- -->
+
+<p align="center">
+  <kbd><img height="135em" src="https://github-readme-streak-stats.herokuapp.com/?user=wanfahdiva#version3"/></kbd>
+  <kbd><img height="135em" src="https://activity-graph.herokuapp.com/graph?username=wanfahdiva&theme=redical"></kbd>
+</p>
+
+-----
 
 credits: [wanfahdiva](https://github.com/wanfahdiva)
 
