@@ -57,4 +57,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=wanfahdiva&show_icons=true&theme=gotham" alt="wanfahdiva" />
-<p align="right"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanfahdiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanfahdiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
