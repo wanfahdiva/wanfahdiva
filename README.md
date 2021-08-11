@@ -24,47 +24,32 @@ I'm [Wanfah Diva](https://wanfahdiva.github.io/), I am someone who really likes 
 
 I'm also a fan of open-source. I learn a lot from the open-source community and I love how collaboration and knowledge sharing happen through open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+-----
+
+<h5 align="center">
   
-<!-- - 💼 any freelance work? do reach, [email](mailto:wanfahdiva07@gmail.com) :)
-- 💬 ask me about anything, maybe I can help, I'm happy to help; -->
-
-**languages and tools:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
-<br />
-<br />
-<br />
-<br />
-📊 **this week i spent my time on:**
-
-<!--START_SECTION:waka-->
-
-```text
-HTML           ██████████████████████▓░░   90.91 %
-CSS            ███████████████████░░░░░░   86.54 %
-JavaScript     ██████████░░░░░░░░░░░░░░░   51.41 %
-CodeIgniter    ████████░░░░░░░░░░░░░░░░░   45.01 %
-JSX            ██░░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-```
-
-<!--END_SECTION:waka-->
-
-<br />
-<br />
-
 📈 **My GitHub Stats:**
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wanfahdiva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanfahdiva&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</h5>
+<!-- <img alt="stats" height="140em" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" /> -->
+<!-- <img alt="stats" height="140em" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /> -->
+<!-- <img alt="stats" height="140em" src="https://c.tenor.com/RZ1Cq8RF_FwAAAAM/anime-crazy.gif" /> -->
+<p align="center">
+<kbd><img align="center" height="140em" alt="stats" src="https://github-readme-stats.vercel.app/api?username=wanfahdiva&theme=react&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></kbd>
+<kbd><img align="center" height="140em" alt="stats" src="https://c.tenor.com/RZ1Cq8RF_FwAAAAM/anime-crazy.gif" /></kbd>
+<kbd><img align="center" height="140em" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanfahdiva&theme=react&layout=compact" />
+</kbd>
 </p>
+
+-----
+
+<!-- <p align="center">
+  <kbd><img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=wanfahdiva#version3"/></kbd>
+  <kbd><img height="140em" src="https://activity-graph.herokuapp.com/graph?username=wanfahdiva&theme=redical"></kbd>
+</p>
+
+----- -->
+
+credits: [wanfahdiva](https://github.com/wanfahdiva)
+
+last edited on: 10/08/2021
