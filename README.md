@@ -43,11 +43,11 @@ I'm also a fan of open-source. I learn a lot from the open-source community and 
 <kbd><img align="center" height="140em" width="380em" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanfahdiva&theme=react&layout=compact" />
 </kbd>
 </p>
-
+<!--
 <p align="center">
 <kbd><img align="center" height="140em" width="380em" alt="stats" src="https://c.tenor.com/RZ1Cq8RF_FwAAAAM/anime-crazy.gif" /></kbd>
 </p>
-
+-->
 <!-- ----- -->
 
 <p align="center">
