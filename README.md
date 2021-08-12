@@ -37,6 +37,7 @@ I'm also a fan of open-source. I learn a lot from the open-source community and 
 <!-- <img alt="stats" height="140em" src="https://c.tenor.com/RZ1Cq8RF_FwAAAAM/anime-crazy.gif" /> -->
 <!-- https://c.tenor.com/pLELIamuvU4AAAAC/animated-type.gif -->
 <!-- https://c.tenor.com/mjWYgxi6RS8AAAAC/lain-typing.gif -->
+<!-- softprops -->
 
 <p align="center">
 <kbd><img align="center" height="140em" width="380em" alt="stats" src="https://github-readme-stats.vercel.app/api?username=wanfahdiva&theme=react&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></kbd>
