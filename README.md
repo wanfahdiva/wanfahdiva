@@ -40,19 +40,19 @@ I'm also a fan of open-source. I learn a lot from the open-source community and 
 
 <p align="center">
 <kbd><img align="center" height="140em" width="380em" alt="stats" src="https://github-readme-stats.vercel.app/api?username=wanfahdiva&theme=react&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></kbd>
-<kbd><img align="center" height="140em" width="380em" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanfahdiva&theme=react&layout=compact" />
+<kbd><img align="center" height="140em" width="380em" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanfahdiva&theme=react&hide_border=true&layout=compact" />
 </kbd>
 </p>
-<!--
+
 <p align="center">
-<kbd><img align="center" height="140em" width="380em" alt="stats" src="https://c.tenor.com/RZ1Cq8RF_FwAAAAM/anime-crazy.gif" /></kbd>
+<kbd><img align="center" height="140em" alt="anime" src="https://c.tenor.com/RZ1Cq8RF_FwAAAAM/anime-crazy.gif" /></kbd>
 </p>
--->
+
 <!-- ----- -->
 
 <p align="center">
-  <kbd><img height="135em" width="380em" src="https://github-readme-streak-stats.herokuapp.com?user=wanfahdiva&theme=tokyonight_duo&hide_border=true&dates=27DDC9"/></kbd>
-  <kbd><img height="135em" width="380em" src="https://activity-graph.herokuapp.com/graph?username=wanfahdiva&theme=react-dark"></kbd>
+  <kbd><img height="135em" width="380em" alt="stats" src="https://github-readme-streak-stats.herokuapp.com?user=wanfahdiva&theme=tokyonight_duo&hide_border=true&dates=27DDC9"/></kbd>
+  <kbd><img height="135em" width="380em" alt="stats" src="https://activity-graph.herokuapp.com/graph?username=wanfahdiva&theme=react-dark"></kbd>
 </p>
 
 -----
