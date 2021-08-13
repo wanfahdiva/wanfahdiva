@@ -1,23 +1,23 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://instagram.com/wanfahdiva">
-  <img align="left" alt="Wanfah Diva | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" />
+  <img align="left" alt="Wanfah Diva | Instagram" width="20px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" />
 </a>
 <a href="https://twitter.com/wanfah_diva">
-  <img align="left" alt="Wanfah Diva | Twitter" width="22px" src="https://image.flaticon.com/icons/png/128/1409/1409937.png" />
+  <img align="left" alt="Wanfah Diva | Twitter" width="20px" src="https://image.flaticon.com/icons/png/128/1409/1409937.png" />
 </a>
 <a href="https://www.linkedin.com/in/wanfahdiva">
-  <img align="left" alt="Wanfah Diva | LinkedIN" width="22px" src="https://image.flaticon.com/icons/png/512/1383/1383262.png" />
+  <img align="left" alt="Wanfah Diva | LinkedIN" width="20px" src="https://image.flaticon.com/icons/png/512/1383/1383262.png" />
 </a>
 <a href="https://web.facebook.com/wanfahdivaa/">
-  <img align="left" alt="Wanfah Diva | Telegram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384053.png" />
+  <img align="left" alt="Wanfah Diva | Telegram" width="20px" src="https://image.flaticon.com/icons/png/512/1384/1384053.png" />
 </a>
 <a href="https://wa.link/rxc23y">
-  <img align="left" alt="Wanfah Diva | Whatsapp" width="22px" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" />
+  <img align="left" alt="Wanfah Diva | Whatsapp" width="20px" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=wanfahdiva.wanfahdiva)
-
+<a href="">
+  <img align="left" alt="Wanfah Diva | Badge" width="70px" src="https://visitor-badge.glitch.me/badge?page_id=wanfahdiva.wanfahdiva" />
+</a>
 <br />
 
 I'm [Wanfah Diva](https://wanfahdiva.github.io/), I am someone who really likes work in IT related field, currently I am a First Year Computer Engineering Student at College of Computer Science Management. I love Machine Learning and trying to find out more about Full Stack Web Development and Cyber Security.
