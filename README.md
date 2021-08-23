@@ -15,9 +15,9 @@
 <a href="https://wa.link/rxc23y">
   <img align="left" alt="Wanfah Diva | Whatsapp" width="19px" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" />
 </a>
-<a href="">
+<!-- <a href="">
   <img align="left" alt="Wanfah Diva | Badge" width="70px" src="https://visitor-badge.glitch.me/badge?page_id=wanfahdiva.wanfahdiva" />
-</a>
+</a> -->
 
 <br />
 <br />
