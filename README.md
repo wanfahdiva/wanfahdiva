@@ -43,7 +43,7 @@ I'm also a fan of open-source. I learn a lot from the open-source community and 
 
 <p align="center">
 <kbd><img align="center" height="140em" width="380em" alt="stats" src="https://github-readme-stats.vercel.app/api?username=wanfahdiva&theme=react&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></kbd>
-<kbd><img align="center" height="140em" width="380em" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanfahdiva&theme=react&hide_border=true&layout=compact" />
+<kbd><img align="center" height="140em" width="380em" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanfahdiva&theme=react&hide_border=true&layout=compact&&hide=html" />
 </kbd>
 </p>
 <!--
