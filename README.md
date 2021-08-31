@@ -3,7 +3,7 @@
 <a href="https://instagram.com/wanfahdiva">
   <img align="left" alt="Wanfah Diva | Instagram" width="19px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" />
 </a>
-<a href="https://twitter.com/wanfah_diva">
+<a href="https://twitter.com/wanfahdivaa">
   <img align="left" alt="Wanfah Diva | Twitter" width="19px" src="https://image.flaticon.com/icons/png/128/1409/1409937.png" />
 </a>
 <a href="https://www.linkedin.com/in/wanfahdiva">
@@ -15,9 +15,9 @@
 <a href="https://wa.link/rxc23y">
   <img align="left" alt="Wanfah Diva | Whatsapp" width="19px" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" />
 </a>
-<!-- <a href="">
+<a href="">
   <img align="left" alt="Wanfah Diva | Badge" width="70px" src="https://visitor-badge.glitch.me/badge?page_id=wanfahdiva.wanfahdiva" />
-</a> -->
+</a>
 
 <br />
 <br />
