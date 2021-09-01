@@ -22,9 +22,7 @@
 <br />
 <br />
 
-I'm [Wanfah Diva](https://wanfahdiva.github.io/), I am someone who really likes work in IT related field, currently I am a First Year Computer Engineering Student at College of Computer Science Management. I love Machine Learning and trying to find out more about Full Stack Web Development and Cyber Security.
-
-I'm also a fan of open-source. I learn a lot from the open-source community and I love how collaboration and knowledge sharing happen through open-source.
+I'm [Wanfah Diva](https://wanfahdiva.github.io/)
 
 -----
 
