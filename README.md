@@ -40,8 +40,8 @@ I'm [Wanfah Diva](https://wanfahdiva.github.io/)
 <!-- softprops -->
 
 <p align="center">
-<kbd><img align="center" height="140em" width="380em" alt="stats" src="https://github-readme-stats.vercel.app/api?username=wanfahdiva&theme=react&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></kbd>
-<kbd><img align="center" height="140em" width="380em" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanfahdiva&theme=react&hide_border=true&layout=compact&&hide=html" />
+<kbd><img align="center" height="140em" width="380em" alt="stats" src="https://github-readme-stats.vercel.app/api?username=wanfahdiva&theme=react&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=issues,contribs" /></kbd>
+<kbd><img align="center" height="140em" width="380em" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanfahdiva&theme=react&hide_border=true&layout=compact&langs_count=10&hide=html,css,php,javascript" />
 </kbd>
 </p>
 <!--
