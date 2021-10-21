@@ -32,7 +32,7 @@ I'm Wanfah Diva
 </div>
 <br />
 <div align="center">
-<kbd><img align="center" height="140em" alt="anime" src="https://c.tenor.com/RZ1Cq8RF_FwAAAAM/anime-crazy.gif" /></kbd>
+<!-- <kbd><img align="center" height="140em" alt="anime" src="https://c.tenor.com/RZ1Cq8RF_FwAAAAM/anime-crazy.gif" /></kbd> -->
 </div>
 <br />
 <div align="center">
