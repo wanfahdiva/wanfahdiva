@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+![](https://visitor-badge.laobi.icu/badge?page_id=wanfahdiva.wanfahdiva)
 <a href="https://instagram.com/wanfahdiva">
   <img align="left" alt="Wanfah Diva | Instagram" width="19px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" />
 </a>
@@ -16,7 +16,7 @@
 </a>
 <br />
 <br />
-I'm Wanfah Diva
+### Hey there I'm Wanfah Diva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 -----
 
