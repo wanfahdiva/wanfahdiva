@@ -18,6 +18,8 @@
 <br />
 ### Hey there I'm Wanfah Diva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am someone who likes to work in IT related field, currently I am a First Year Computer Engineering Student in College of Computer Science Management. I love Machine Learning and trying to find out more about Full Stack Web Development and Cyber Security.</p>
+
 -----
 
 <h5 align="center">
@@ -44,4 +46,4 @@
 -----
 
 <sub><sup>credits: [wanfahdiva](https://github.com/wanfahdiva)</sup></sub> <br>
-<sub><sup>last edited on: 10/08/2021</sup></sub>
+<sub><sup>last edited on: 04/12/2021</sup></sub>
