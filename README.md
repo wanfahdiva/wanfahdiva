@@ -18,7 +18,7 @@
 <br />
 ### Hey there I'm Wanfah Diva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am someone who likes to work in IT related field, currently I am a First Year Computer Engineering Student in College of Computer Science Management. I love Machine Learning and trying to find out more about Full Stack Web Development and Cyber Security.</p>
+I am someone who likes to work in IT-related fields, currently, I am a freelancer at  [Sawala Technology](https://github.com/sawala-tech/) . I also love Machine Learning and trying to find out more about Full Stack Web Development and Cyber Security.
 
 -----
 
@@ -45,5 +45,9 @@
 
 -----
 
-<sub><sup>credits: [wanfahdiva](https://github.com/wanfahdiva)</sup></sub> <br>
-<sub><sup>last edited on: 04/12/2021</sup></sub>
+<div align="end">
+<!--   <img src="https://i.ibb.co/PgyvMYg/logo3.png" width="20px"> -->
+  <br />
+  <sup> wanfahdiva </sup>
+</div>
+
