@@ -18,7 +18,6 @@
 <br />
 ### Hey there I'm Wanfah Diva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-I am someone who likes to work in IT-related fields.
 
 -----
 
