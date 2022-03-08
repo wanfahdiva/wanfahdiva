@@ -1,18 +1,18 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=wanfahdiva.wanfahdiva)
 <a href="https://instagram.com/wanfahdiva">
-  <img align="left" alt="Wanfah Diva | Instagram" width="19px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" />
+  <img align="left" alt="Wanfah Diva | Instagram" width="19px" src="https://i.ibb.co/YyYWf0j/instagram.png" />
 </a>
 <a href="https://twitter.com/wanfahdivaa">
-  <img align="left" alt="Wanfah Diva | Twitter" width="19px" src="https://image.flaticon.com/icons/png/128/1409/1409937.png" />
+  <img align="left" alt="Wanfah Diva | Twitter" width="19px" src="https://i.ibb.co/fvDCczh/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/wanfahdiva">
-  <img align="left" alt="Wanfah Diva | LinkedIN" width="19px" src="https://image.flaticon.com/icons/png/512/1383/1383262.png" />
+  <img align="left" alt="Wanfah Diva | LinkedIN" width="19px" src="https://i.ibb.co/zXzkmjY/linkedin.png" />
 </a>
 <a href="https://web.facebook.com/wanfahdivaa/">
-  <img align="left" alt="Wanfah Diva | Telegram" width="19px" src="https://image.flaticon.com/icons/png/512/1384/1384053.png" />
+  <img align="left" alt="Wanfah Diva | Telegram" width="19px" src="https://i.ibb.co/T8rXsZh/facebook.png" />
 </a>
 <a href="https://wa.link/rxc23y">
-  <img align="left" alt="Wanfah Diva | Whatsapp" width="19px" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" />
+  <img align="left" alt="Wanfah Diva | Whatsapp" width="19px" src="https://i.ibb.co/BwQwmy6/whatsapp.png"/>
 </a>
 <br />
 <br />
