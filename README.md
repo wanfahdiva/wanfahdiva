@@ -16,17 +16,17 @@
 </a>
 <br />
 <br />
-### Hey there I'm Wanfah Diva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+### Hey there i'm wanfah diva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 
 -----
 
-<!-- <h5 align="center">
+<h5 align="center">
   
 📈 **My GitHub Stats:**  
 
 </h5>
-<div align="center">
+<!-- <div align="center">
 <kbd><img align="center" height="140em" width="380em" alt="stats" src="https://github-readme-stats.vercel.app/api?username=wanfahdiva&theme=react&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&hide=contribs&hide_title=true" /></kbd>
 <kbd><img align="center" height="140em" width="380em" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanfahdiva&theme=react&hide_border=true&layout=compact&langs_count=10&hide=html,css,php&hide_title=true" />
 </kbd>
@@ -36,9 +36,9 @@
 
 <div align="center">
 <kbd><img align="center" height="140em" alt="anime" src="https://c.tenor.com/RZ1Cq8RF_FwAAAAM/anime-crazy.gif" /></kbd>
-</div>
+</div> -->
 
-<br /> -->
+<br />
 
 <div align="center">
 <kbd><img height="135em" width="380em" alt="stats" src="https://github-readme-streak-stats.herokuapp.com?user=wanfahdiva&theme=tokyonight_duo&hide_border=true&dates=27DDC9" />
