@@ -16,7 +16,7 @@
 </a>
 <br />
 <br />
-### Hey there i'm wanfah diva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+### Hey there i'm wanfah diva
 
 
 -----
