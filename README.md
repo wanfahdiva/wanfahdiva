@@ -1,4 +1,4 @@
-[![Banner](https://svg-banners.vercel.app/api?type=rainbow&text1=Hey&nbsp;there&nbsp;i'm&nbsp;wanfah&nbsp;diva%20&width=1200&height=400)](https://github.com/wanfahdiva)
+<!-- [![Banner](https://svg-banners.vercel.app/api?type=rainbow&text1=Hey&nbsp;there&nbsp;i'm&nbsp;wanfah&nbsp;diva%20&width=1200&height=400)](https://github.com/wanfahdiva) -->
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=wanfahdiva.wanfahdiva)
 <a href="https://instagram.com/wanfahdiva">
