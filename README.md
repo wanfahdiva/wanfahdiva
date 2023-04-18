@@ -1,6 +1,6 @@
 <!-- [![Banner](https://svg-banners.vercel.app/api?type=rainbow&text1=Hey&nbsp;there&nbsp;i'm&nbsp;wanfah&nbsp;diva%20&width=1200&height=400)](https://github.com/wanfahdiva) -->
 
-![](https://visitor-badge.laobi.icu/badge?page_id=wanfahdiva.wanfahdiva)
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=wanfahdiva.wanfahdiva) -->
 <a href="https://instagram.com/wanfahdiva">
 <img align="left" alt="Wanfah Diva | Instagram" width="19px" src="https://i.ibb.co/YyYWf0j/instagram.png" />
 </a>
@@ -16,6 +16,7 @@
 <a href="https://wa.link/rxc23y">
 <img align="left" alt="Wanfah Diva | Whatsapp" width="19px" src="https://i.ibb.co/BwQwmy6/whatsapp.png"/>
 </a>
+<br />
 
 ---
 
