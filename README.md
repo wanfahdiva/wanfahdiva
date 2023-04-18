@@ -13,9 +13,6 @@
 <a href="https://web.facebook.com/wanfahdivaa/">
 <img align="left" alt="Wanfah Diva | Telegram" width="19px" src="https://i.ibb.co/T8rXsZh/facebook.png" />
 </a>
-<a href="https://wa.link/rxc23y">
-<img align="left" alt="Wanfah Diva | Whatsapp" width="19px" src="https://i.ibb.co/BwQwmy6/whatsapp.png"/>
-</a>
 <br />
 
 ---
