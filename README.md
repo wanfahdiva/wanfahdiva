@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FFFFFF00&repeat=false&width=435&lines=Hey+there+I'm+Wanfah+Diva)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FFFFFF00&width=435&lines=Hey+there+I'm+Wanfah+Diva)](https://git.io/typing-svg)
 
 <p>
 I am a Software Engineer with expertise in building Frontend Developments.
