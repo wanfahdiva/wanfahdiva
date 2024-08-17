@@ -30,6 +30,8 @@ Presently, my focus lies in crafting accessible and high-performance web applica
 
 ---
 
+[![Waka Readme](https://github.com/wanfahdiva/wanfahdiva/actions/workflows/waka.yml/badge.svg)](https://github.com/wanfahdiva/wanfahdiva/actions/workflows/waka.yml)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-773%20hrs%2034%20mins-blue)
 
