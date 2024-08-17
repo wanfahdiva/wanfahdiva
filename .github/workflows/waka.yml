@@ -3,8 +3,8 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 22.00 pm UTC or 06.00  UTC+8
-    - cron: "0 22 * * *"
+    # Runs at 12:00 PM (noon) GMT+7
+    - cron: "0 5 * * *"
 
 jobs:
   update-readme:
@@ -14,6 +14,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: "feat: updated wakatime metrics"
           SHOW_LINES_OF_CODE: "True"
