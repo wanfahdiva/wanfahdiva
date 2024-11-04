@@ -33,7 +33,49 @@ Presently, my focus lies in crafting accessible and high-performance web applica
 [![Waka Readme](https://github.com/wanfahdiva/wanfahdiva/actions/workflows/waka.yml/badge.svg)](https://github.com/wanfahdiva/wanfahdiva/actions/workflows/waka.yml)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.0%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C359%20hrs%2051%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.1%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5748 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+🌆 Daytime                21654 commits       ██████████████░░░░░░░░░░░   56.23 % 
+🌃 Evening                7566 commits        █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+🌙 Night                  3541 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   7942 commits        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Tuesday                  5912 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Wednesday                5732 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Thursday                 7678 commits        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Friday                   7042 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Saturday                 2011 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Sunday                   2192 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+TypeScript               29 hrs 5 mins       ██████████████████████░░░   89.32 % 
+JavaScript               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Other                    30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+
+🔥 Editors: 
+VS Code                  32 hrs 33 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  32 hrs 33 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -48,5 +90,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2024 17:45:09 UTC
+ Last Updated on 04/11/2024 17:46:01 UTC
 <!--END_SECTION:waka-->
