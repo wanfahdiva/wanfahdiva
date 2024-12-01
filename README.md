@@ -33,49 +33,7 @@ Presently, my focus lies in crafting accessible and high-performance web applica
 [![Waka Readme](https://github.com/wanfahdiva/wanfahdiva/actions/workflows/waka.yml/badge.svg)](https://github.com/wanfahdiva/wanfahdiva/actions/workflows/waka.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C494%20hrs%2053%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.4%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                6102 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-🌆 Daytime                23061 commits       ██████████████░░░░░░░░░░░   55.25 % 
-🌃 Evening                8762 commits        █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-🌙 Night                  3818 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   8464 commits        █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-Tuesday                  6427 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Wednesday                6262 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Thursday                 8073 commits        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-Friday                   7549 commits        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Saturday                 2385 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Sunday                   2583 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-TypeScript               27 hrs 55 mins      █████████████████████░░░░   84.78 % 
-JavaScript               3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Other                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Bash                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-PHP                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-
-🔥 Editors: 
-VS Code                  32 hrs 56 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  32 hrs 56 mins      █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.5%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in TypeScript** 
 
@@ -90,5 +48,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2024 17:46:30 UTC
+ Last Updated on 01/12/2024 17:51:55 UTC
 <!--END_SECTION:waka-->
