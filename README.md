@@ -8,7 +8,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wanfahdiva.wanfahdiva)
 
 <p>
-I am a Software Engineer with expertise in building Frontend Developments.
+I'am a Software Developer with expertise in building Frontend Developments.
 Presently, my focus lies in crafting accessible and high-performance web applications at  <a href="https://sawala/tech" target="_blank">PT. Sawala Technology Indonesia</a>. see my <a href="http://wanfahdiva-com.vercel.app/" target="_blank">portfolio</a> for more information.
 </p>
 
