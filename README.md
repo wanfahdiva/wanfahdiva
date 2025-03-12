@@ -1,15 +1,15 @@
-## Hello World!, I'm Wanfah Diva, Software Developer!
+## Hello World! I'm Wanfah Diva, a Frontend Software Developer.
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:aditputrafirmansyah@gmail.com)](mailto:wanfahdivaa@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/aditputrafirmansyah/)](https://www.linkedin.com/in/wanfahdiva/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&link=https://t.me/Adithya_13)](https://t.me/wanfahdiva)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/adithya_firmansyahputra/)](https://www.instagram.com/wnfhdva/)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wanfahdiva.wanfahdiva)
 
 <p>
-I'am a Software Developer with expertise in building Frontend Developments.
-Presently, my focus lies in crafting accessible and high-performance web applications at  <a href="https://sawala/tech" target="_blank">PT. Sawala Technology Indonesia</a>. see my <a href="http://wanfahdiva-com.vercel.app/" target="_blank">portfolio</a> for more information.
+I am a Frontend Software Developer at <a href="https://sawala/tech" target="_blank">PT. Sawala Technology Indonesia</a>, I specialize in developing fast, accessible, and user-friendly web applications. With a strong focus on crafting intuitive user interfaces, I ensure seamless experiences across devices and platforms.
+
+Explore my <a href="http://wanfahdiva-com.vercel.app/" target="_blank">portfolio</a> to learn more about my work.
 </p>
 
 <h5 align="left">
