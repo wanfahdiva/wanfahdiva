@@ -33,7 +33,7 @@ Explore my <a href="http://wanfahdiva-com.vercel.app/" target="_blank">portfolio
 [![Waka Readme](https://github.com/wanfahdiva/wanfahdiva/actions/workflows/waka.yml/badge.svg)](https://github.com/wanfahdiva/wanfahdiva/actions/workflows/waka.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C869%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C870%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.7%20million%20lines%20of%20code-blue)
 
@@ -42,14 +42,14 @@ Explore my <a href="http://wanfahdiva-com.vercel.app/" target="_blank">portfolio
 ```text
 🌞 Morning                7909 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 🌆 Daytime                29687 commits       █████████████░░░░░░░░░░░░   53.55 % 
-🌃 Evening                13065 commits       ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
-🌙 Night                  4781 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+🌃 Evening                13065 commits       ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+🌙 Night                  4782 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   11239 commits       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-Tuesday                  9258 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Tuesday                  9259 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
 Wednesday                8359 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
 Thursday                 9704 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
 Friday                   8980 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
@@ -64,13 +64,17 @@ Sunday                   4335 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     11 mins             ██████████░░░░░░░░░░░░░░░   39.25 % 
+TypeScript               7 mins              ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+YAML                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+CSS                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  28 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  28 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -86,5 +90,5 @@ Hack                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/04/2025 17:28:48 UTC
+ Last Updated on 08/04/2025 17:30:34 UTC
 <!--END_SECTION:waka-->
