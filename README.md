@@ -7,7 +7,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wanfahdiva.wanfahdiva)
 
 <p>
-I am a Frontend Software Developer at <a href="https://sawala/tech" target="_blank">PT. Sawala Technology Indonesia</a>, I specialize in developing fast, accessible, and user-friendly web applications. With a strong focus on crafting intuitive user interfaces, I ensure seamless experiences across devices and platforms.
+I am a Frontend Software Developer at <a href="https://sawala.tech" target="_blank">PT. Sawala Technology Indonesia</a>, I specialize in developing fast, accessible, and user-friendly web applications. With a strong focus on crafting intuitive user interfaces, I ensure seamless experiences across devices and platforms.
 
 Explore my <a href="http://wanfahdiva-com.vercel.app/" target="_blank">portfolio</a> to learn more about my work.
 </p>
