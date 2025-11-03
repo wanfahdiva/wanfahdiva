@@ -33,6 +33,8 @@ Explore my <a href="http://wanfahdiva-com.vercel.app/" target="_blank">portfolio
 [![Waka Readme](https://github.com/wanfahdiva/wanfahdiva/actions/workflows/waka.yml/badge.svg)](https://github.com/wanfahdiva/wanfahdiva/actions/workflows/waka.yml)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C665%20hrs%2055%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.4%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in TypeScript** 
@@ -48,5 +50,5 @@ Hack                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2025 17:28:54 UTC
+ Last Updated on 03/11/2025 17:32:09 UTC
 <!--END_SECTION:waka-->
