@@ -33,7 +33,49 @@ Explore my <a href="http://wanfahdiva-com.vercel.app/" target="_blank">portfolio
 [![Waka Readme](https://github.com/wanfahdiva/wanfahdiva/actions/workflows/waka.yml/badge.svg)](https://github.com/wanfahdiva/wanfahdiva/actions/workflows/waka.yml)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.89%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C464%20hrs%2052%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.00%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                9039 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+🌆 Daytime                28330 commits       ███████████░░░░░░░░░░░░░░   45.10 % 
+🌃 Evening                20043 commits       ████████░░░░░░░░░░░░░░░░░   31.91 % 
+🌙 Night                  5406 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   11403 commits       █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Tuesday                  10026 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Wednesday                9379 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Thursday                 10193 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Friday                   10172 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Saturday                 5417 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Sunday                   6228 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+TypeScript               6 hrs 35 mins       ███████████████░░░░░░░░░░   58.92 % 
+Vue                      1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+JSON                     1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 11 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      11 hrs 11 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -48,5 +90,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 20:01:17 UTC
+ Last Updated on 29/05/2026 19:51:51 UTC
 <!--END_SECTION:waka-->
