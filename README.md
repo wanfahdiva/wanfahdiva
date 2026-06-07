@@ -33,62 +33,22 @@ Explore my <a href="http://wanfahdiva-com.vercel.app/" target="_blank">portfolio
 [![Waka Readme](https://github.com/wanfahdiva/wanfahdiva/actions/workflows/waka.yml/badge.svg)](https://github.com/wanfahdiva/wanfahdiva/actions/workflows/waka.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C481%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C484%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.23%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                9124 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-🌆 Daytime                28582 commits       ███████████░░░░░░░░░░░░░░   45.17 % 
-🌃 Evening                20141 commits       ████████░░░░░░░░░░░░░░░░░   31.83 % 
-🌙 Night                  5435 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   11502 commits       █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Tuesday                  10101 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Wednesday                9466 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Thursday                 10268 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Friday                   10236 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Saturday                 5439 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Sunday                   6270 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-TypeScript               8 hrs 41 mins       ██████████████████░░░░░░░   72.94 % 
-Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-
-🔥 Editors: 
-VS Code                  11 hrs 55 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      11 hrs 55 mins      █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.21%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               51 repos            ██████████████░░░░░░░░░░░   54.26 % 
-PHP                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+TypeScript               50 repos            █████████████░░░░░░░░░░░░   53.76 % 
+PHP                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 
 
 
 
- Last Updated on 06/06/2026 18:25:53 UTC
+ Last Updated on 07/06/2026 18:18:39 UTC
 <!--END_SECTION:waka-->
