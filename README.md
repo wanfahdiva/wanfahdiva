@@ -33,7 +33,7 @@ Explore my <a href="http://wanfahdiva-com.vercel.app/" target="_blank">portfolio
 [![Waka Readme](https://github.com/wanfahdiva/wanfahdiva/actions/workflows/waka.yml/badge.svg)](https://github.com/wanfahdiva/wanfahdiva/actions/workflows/waka.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C511%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C514%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.29%20million%20lines%20of%20code-blue?style=flat)
 
@@ -64,18 +64,18 @@ Sunday                   6271 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               14 hrs 31 mins      ████████████░░░░░░░░░░░░░   49.04 % 
-Vue                      9 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.65 % 
-JSON                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Bash                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+TypeScript               10 hrs 52 mins      ██████████░░░░░░░░░░░░░░░   41.37 % 
+Vue                      9 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   36.61 % 
+JSON                     2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Bash                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 32 mins      █████████████████████████   99.78 % 
-Chrome                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+VS Code                  26 hrs 12 mins      █████████████████████████   99.75 % 
+Chrome                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Mac                      29 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -91,5 +91,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2026 18:29:55 UTC
+ Last Updated on 15/06/2026 20:46:18 UTC
 <!--END_SECTION:waka-->
