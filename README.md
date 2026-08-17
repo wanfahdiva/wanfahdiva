@@ -66,34 +66,34 @@ Sunday                   6600 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               7 hrs 20 mins       ███████████░░░░░░░░░░░░░░   45.45 % 
-Bash                     2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Vue                      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-JavaScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Other                    1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+TypeScript               6 hrs 47 mins       ███████████░░░░░░░░░░░░░░   44.23 % 
+Bash                     2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Vue                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+JavaScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Other                    1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 24 mins      ██████████████████████░░░   89.23 % 
-Claude Code              1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Codex CLI                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+VS Code                  13 hrs 36 mins      ██████████████████████░░░   88.67 % 
+Claude Code              1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Codex CLI                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 Kiro                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Mac                      16 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 21 mins (51.73%)
+⏱ AI Coding Time: 8 hrs 18 mins (54.11%)
 
-✍️ 2,597 lines written by AI, 2,624 lines written by hand (49.74% AI-written)
+✍️ 2,597 lines written by AI, 2,556 lines written by hand (50.4% AI-written)
 
 🔤 1,282,504 Input Tokens, 101,885 Output Tokens
 
 💵 $9.41 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 168 AI Prompts
+🧠 24 AI Sessions, 167 AI Prompts
 
 Kiro                     2,076 lines         ██████████████████░░░░░░░   73.12 % 
 Sonnet                   614 lines           █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
@@ -101,10 +101,10 @@ GPT                      149 lines           █░░░░░░░░░░�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 49.74% of written lines came from AI
-📝 Concise Prompter — average 246 characters per prompt
+⚖️ Balanced with AI — 50.4% of written lines came from AI
+📝 Concise Prompter — average 247 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 82.38% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 82.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -120,5 +120,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 17:50:39 UTC
+ Last Updated on 17/08/2026 17:54:48 UTC
 <!--END_SECTION:waka-->
