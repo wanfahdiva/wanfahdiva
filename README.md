@@ -66,44 +66,44 @@ Sunday                   6581 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               5 hrs 19 mins       █████████████░░░░░░░░░░░░   53.42 % 
-Markdown                 1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Vue                      1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+TypeScript               3 hrs 32 mins       ███████████░░░░░░░░░░░░░░   43.93 % 
+Markdown                 1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+Vue                      1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 15 mins       █████████████████████░░░░   82.80 % 
-Codex CLI                1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Kiro                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+VS Code                  6 hrs 33 mins       ████████████████████░░░░░   81.39 % 
+Codex CLI                1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Kiro                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 💻 Operating System: 
-Mac                      9 hrs 58 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 51 mins (58.66%)
+⏱ AI Coding Time: 4 hrs 16 mins (53.04%)
 
-✍️ 2,608 lines written by AI, 1,076 lines written by hand (70.79% AI-written)
+✍️ 2,265 lines written by AI, 1,050 lines written by hand (68.33% AI-written)
 
-🔤 2,132,191 Input Tokens, 120,061 Output Tokens
+🔤 1,850,203 Input Tokens, 103,209 Output Tokens
 
-💵 $10.46 Estimated AI Cost This Week
+💵 $9.72 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 35 AI Prompts
+🧠 12 AI Sessions, 31 AI Prompts
 
-Kiro                     2,971 lines         ████████████████░░░░░░░░░   65.47 % 
-GPT                      1,567 lines         █████████░░░░░░░░░░░░░░░░   34.53 % 
+Kiro                     2,650 lines         ████████████████░░░░░░░░░   63.40 % 
+GPT                      1,530 lines         █████████░░░░░░░░░░░░░░░░   36.60 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.79% of written lines came from AI
-📚 Verbose Prompter — average 2,895 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 30.51% of changed lines were hand-edited
+🤖 AI-Driven — 68.33% of written lines came from AI
+📚 Verbose Prompter — average 3,163 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 31.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,5 +119,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 17:52:49 UTC
+ Last Updated on 23/08/2026 17:47:41 UTC
 <!--END_SECTION:waka-->
