@@ -33,7 +33,7 @@ Explore my <a href="http://wanfahdiva-com.vercel.app/" target="_blank">portfolio
 [![Waka Readme](https://github.com/wanfahdiva/wanfahdiva/actions/workflows/waka.yml/badge.svg)](https://github.com/wanfahdiva/wanfahdiva/actions/workflows/waka.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C006%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C006%20hrs%2030%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-109%20hrs%201%20min-blue?style=flat)
 
@@ -66,25 +66,25 @@ Sunday                   6581 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               3 hrs 32 mins       ███████████░░░░░░░░░░░░░░   43.93 % 
-Markdown                 1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-Vue                      1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+TypeScript               3 hrs 32 mins       ███████████░░░░░░░░░░░░░░   43.63 % 
+Markdown                 1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Vue                      1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 33 mins       ████████████████████░░░░░   81.39 % 
-Codex CLI                1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Kiro                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+VS Code                  6 hrs 36 mins       ████████████████████░░░░░   81.52 % 
+Codex CLI                1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Kiro                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 💻 Operating System: 
-Mac                      8 hrs 2 mins        █████████████████████████   100.00 % 
+Mac                      8 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 16 mins (53.04%)
+⏱ AI Coding Time: 4 hrs 16 mins (52.67%)
 
 ✍️ 2,265 lines written by AI, 1,050 lines written by hand (68.33% AI-written)
 
@@ -119,5 +119,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 17:47:41 UTC
+ Last Updated on 24/08/2026 18:04:48 UTC
 <!--END_SECTION:waka-->
