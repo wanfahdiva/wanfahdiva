@@ -74,7 +74,6 @@ Vue                      19 mins             █░░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  11 hrs 49 mins      █████████████████████████   100.00 % 
-Kiro                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
 Mac                      11 hrs 49 mins      █████████████████████████   100.00 % 
@@ -83,21 +82,7 @@ Mac                      11 hrs 49 mins      ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.0%)
-
-✍️ 0 lines written by AI, 2,423 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 101 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 4 characters per prompt
-🔁 Iterative Prompter — average 101 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -113,5 +98,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 20:11:09 UTC
+ Last Updated on 30/08/2026 20:10:26 UTC
 <!--END_SECTION:waka-->
