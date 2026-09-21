@@ -43,19 +43,19 @@ Explore my <a href="http://wanfahdiva-com.vercel.app/" target="_blank">portfolio
 
 ```text
 🌞 Morning                12192 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-🌆 Daytime                37329 commits       ████████████░░░░░░░░░░░░░   47.38 % 
-🌃 Evening                22442 commits       ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+🌆 Daytime                37347 commits       ████████████░░░░░░░░░░░░░   47.39 % 
+🌃 Evening                22444 commits       ███████░░░░░░░░░░░░░░░░░░   28.48 % 
 🌙 Night                  6831 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   14209 commits       █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Tuesday                  11004 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Wednesday                11805 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Thursday                 15046 commits       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Friday                   13984 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Saturday                 6011 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Tuesday                  11006 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Wednesday                11809 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Thursday                 15048 commits       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Friday                   13988 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Saturday                 6019 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 Sunday                   6735 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
 ```
 
@@ -66,45 +66,44 @@ Sunday                   6735 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               1 hr 44 mins        ███████████░░░░░░░░░░░░░░   42.39 % 
-JavaScript               1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   32.07 % 
-Markdown                 47 mins             █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+JavaScript               1 hr 18 mins        █████████████░░░░░░░░░░░░   50.54 % 
+TypeScript               55 mins             █████████░░░░░░░░░░░░░░░░   35.86 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 22 mins       ██████████████░░░░░░░░░░░   57.98 % 
-Codex CLI                1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   32.63 % 
-Kiro                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+VS Code                  2 hrs 22 mins       ███████████████████████░░   91.38 % 
+Codex CLI                12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Kiro                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Mac                      4 hrs 5 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 53 mins (46.28%)
+⏱ AI Coding Time: 23 mins (15.34%)
 
-✍️ 1,556 lines written by AI, 97 lines written by hand (94.13% AI-written)
+✍️ 454 lines written by AI, 97 lines written by hand (82.4% AI-written)
 
-🔤 3,920,329 Input Tokens, 263,539 Output Tokens
+🔤 2,982,410 Input Tokens, 127,566 Output Tokens
 
-💵 $32.78 Estimated AI Cost This Week
+💵 $0.85 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 21 AI Prompts
+🧠 6 AI Sessions, 19 AI Prompts
 
-GPT                      1,558 lines         █████████████████████████   98.11 % 
-Codex-Cli                30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+GPT                      454 lines           █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.13% of written lines came from AI
-📝 Concise Prompter — average 362 characters per prompt
+🤖 AI-Driven — 82.4% of written lines came from AI
+📝 Concise Prompter — average 322 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 7.13% of changed lines were hand-edited
+🚀 High AI Trust — 21.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -120,5 +119,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 19:52:56 UTC
+ Last Updated on 21/09/2026 21:24:08 UTC
 <!--END_SECTION:waka-->
